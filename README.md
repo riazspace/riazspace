@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @riazspace
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @riazspace Machine Learning Developer
+- 👀 I’m interested in building machine learning and data science applications 
+- 🌱 I’m currently learning Data science and machine learning
+- 💞️ I’m looking to collaborate on ML Projects
+- 📫 How to reach me contact me at riazspace@gmail.com
 
 <!---
 riazspace/riazspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
