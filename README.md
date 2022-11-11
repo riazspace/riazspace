@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @riazspace Machine Learning Developer
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=riazspace&show_icons=true&locale=en" /> </p>
+
 - 👀 I’m interested in building machine learning and data science applications 
 - 🌱 I’m currently learning Data science and machine learning
 - 💞️ I’m looking to collaborate on ML Projects
