@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me contact me at riazspace@gmail.com
 
+</p>
+## :computer: Tools and Technologies 
+<p>
 <p>
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
